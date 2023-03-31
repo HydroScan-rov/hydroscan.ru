@@ -16,10 +16,10 @@
 url: "https://hydroscan.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : "ООО 'Гидроскан'" # site title
+title      : "ООО «Гидроскан»" # site title
 email      : "vladislav.a.plotnikov@yandex.ru" #this is also the email contact forms will go to
-description: "ООО 'Гидроскан'"
-author     : "ООО 'Гидроскан'"
+description: "ООО «Гидроскан»"
+author     : "ООО «Гидроскан»"
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
   height: 80 #height in px, defaults to 52px
