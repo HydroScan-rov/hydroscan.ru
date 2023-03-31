@@ -11,10 +11,10 @@
 # -------
 ru: &DEFAULT_RU
   header:
-    title: ОСМОТР И СКАНИРОВАНИЕ ПОДВОДНЫХ ОБЪЕКТОВ
+    title: ОСМОТР И 3D СКАНИРОВАНИЕ ПОДВОДНЫХ ОБЪЕКТОВ
     text: судна, гидротехнические сооружения, нефтегазовые вышки
-    button: Подробнее
-    buttonlink: "#services"
+    button: Заказать
+    buttonlink: "#contact"
 
   services:
     title: "УСЛУГИ"
