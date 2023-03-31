@@ -13,11 +13,11 @@ ru: &DEFAULT_RU
   nav:
     - title: "Услуги"
       section: services
-    - title: "Выполненные работы"
+    - title: "Портфолио"
       section: portfolio
     - title: "О нас"
       section: about
-    - title: "История компании"
+    - title: "История"
       section: timeline
     - title: "Команда"
       section: team

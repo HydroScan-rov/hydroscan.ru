@@ -11,9 +11,9 @@
 # -------
 ru: &DEFAULT_RU
   header:
-    title: КОМПАНИЯ "ГИДРОСКАН"
-    text: 3Д СКАНИРОВАНИЕ ПОДВОДНЫХ ОБЪЕКТОВ И ОТЧЕТ О НАЛИЧИИ ДЕФЕКТОВ
-    button: Наши услуги
+    title: Благодаря использованию подводного аппарата мы выполняем работы оперативно и качественно
+    text: 3Д СКАНИРОВАНИЕ И ДЕФЕКТОСКОПИЯ ПОД ВОДОЙ
+    button: Поподробнее
     buttonlink: "#services"
 
   services:
@@ -33,9 +33,9 @@ ru: &DEFAULT_RU
 
   portfolio:
     title: "ПОРТФОЛИО"
-    text: "Здесь представлены некоторые из наших работ"
+    text: "Здесь представлены наши проекты"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Закрыть"
 
   timeline:
     title: "ИСТОРИЯ КОМПАНИИ"
@@ -52,7 +52,7 @@ ru: &DEFAULT_RU
       - title: "Выиграли грант 'Студенческий стартап'"
         year: "2022"
         desc: "Осенью 2022 года мы выиграли грант 'Студенческий стартап' и начали работу над проектом. Закупили большинство необходимых компонентов и начали разработку аппарата."
-        image: assets/img/timeline/vehicle.webp
+        image: assets/img/portfolio/project_hydroscan_rov_thumb.webp
         align: right
         alt:
       - title: "Создание ООО 'Гидроскан'"
