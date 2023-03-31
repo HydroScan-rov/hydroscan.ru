@@ -2,6 +2,7 @@
 header.masthead {
   text-align: center;
   color: white;
+  background-color: $primary-dark;
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;

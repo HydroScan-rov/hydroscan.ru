@@ -119,7 +119,7 @@ ru: &DEFAULT_RU
 
   contact:
     title: "СВЯЖИТЕСЬ С НАМИ"
-    text: "Или напишите нам сразу в [Телеграм](https://t.me/hydroscan/)"
+    text: ""
     section: contact
     name: "Имя"
     name-validation: "Пожалуйста, введите ваше имя."
