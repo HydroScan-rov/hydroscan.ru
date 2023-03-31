@@ -27,7 +27,7 @@ ru: &DEFAULT_RU
       - title: "Дефектоскопия"
         desc: "Специальная нейросеть анализирует полученную 3D модель и выдает отчет о наличии дефектов."
         icon: fas fa-heart-broken
-      - title: "Привязка координат"
+      - title: "Координаты"
         desc: "3D модель будет привязана к предпочитаемой системе координат."
         icon: fas fa-map-marked-alt
       - title: "Отчеты по ГОСТ"
@@ -102,7 +102,7 @@ ru: &DEFAULT_RU
     section: team
     people:
       - name: "Григорий Старых"
-        role: "Генеральный директор, программист"
+        role: "Генеральный директор"
         image: assets/img/team/grisha.webp
         social:
           - url: https://t.me/grishafv

@@ -10,12 +10,12 @@ header.masthead {
   background-size: cover;
   .intro-text {
     padding-top: 150px;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
     .intro-lead-in {
       font-size: 22px;
       // font-style: italic;
       line-height: 22px;
-      margin-bottom: 60px;
+      margin-bottom: 90px;
       @include serif-font;
     }
     .intro-heading {
@@ -36,7 +36,7 @@ header.masthead {
         font-size: 32px;
         // font-style: italic;
         line-height: 32px;
-        margin-bottom: 60px;
+        margin-bottom: 90px;
         @include serif-font;
       }
       .intro-heading {
