@@ -12,6 +12,7 @@
 .btn-primary {
   background-color: $primary;
   border-color: $primary;
+  color: $primary-dark;
   &:active,
   &:focus,
   &:hover {
