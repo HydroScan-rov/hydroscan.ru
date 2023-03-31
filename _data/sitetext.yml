@@ -55,13 +55,13 @@ ru: &DEFAULT_RU
       - title: "Выиграли грант «Студенческий стартап»"
         year: "2022"
         desc: "Осенью 2022 года мы выиграли грант «Студенческий стартап» и начали работу над проектом. Закупили большинство необходимых компонентов и начали разработку аппарата."
-        image: assets/img/portfolio/fpi.webp
+        image: assets/img/timeline/fpi.webp
         align: right
         alt: "«Студенческий стартап»"
       - title: "Создание ООО «Гидроскан»"
         year: "2023"
         desc: "Зимой 2023 года мы зарегистрировали компанию «Гидроскан»."
-        image: assets/img/portfolio/logo_inverted.webp
+        image: assets/img/timeline/logo_inverted.webp
         alt: "ООО «Гидроскан»"
       - title: "Разрабатываем «Гидроскан»"
         year: "2023"
