@@ -19,6 +19,10 @@ a {
   color: $primary !important;
 }
 
+.text-primary-dark {
+  color: $primary-dark !important;
+}
+
 h1,
 h2,
 h3,
@@ -58,7 +62,7 @@ h6 {
 }
 
 ::selection {
-  background: $primary;
+  background: $primary-dark;
   text-shadow: none;
 }
 

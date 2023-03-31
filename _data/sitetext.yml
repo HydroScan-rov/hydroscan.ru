@@ -99,13 +99,13 @@ ru: &DEFAULT_RU
           - url: https://t.me/grishafv
             icon: fab fa-telegram
       - name: "Никита Михненко"
-        role: "Главный конструктор"
+        role: "Главный конструктор\n"
         image: assets/img/team/nikita.webp
         social:
           - url: https://t.me/kilop7890
             icon: fab fa-telegram
       - name: "Дмитрий Затекин"
-        role: "Главный электронщик"
+        role: "Главный электронщик\n"
         image: assets/img/team/dima.webp
         social:
           - url: https://t.me/dimchazty
