@@ -13,9 +13,9 @@ ru: &DEFAULT_RU
   nav:
     - title: "Услуги"
       section: services
-    - title: "Портфолио"
+    - title: "Продукты"
       section: portfolio
-    - title: "О нас"
+    - title: "О компании"
       section: about
     - title: "История"
       section: timeline
