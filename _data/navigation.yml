@@ -13,7 +13,7 @@ ru: &DEFAULT_RU
   nav:
     - title: "Услуги"
       section: services
-    - title: "Продукты"
+    - title: "Аппараты"
       section: portfolio
     - title: "О компании"
       section: about

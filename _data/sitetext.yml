@@ -80,6 +80,7 @@ ru: &DEFAULT_RU
     section: about
 
   clients:
+    title: "Клиенты"
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
