@@ -23,7 +23,8 @@ ru: &DEFAULT_RU
     list:
       - title: "3D сканирование"
         desc: "С помощью подводного аппарата, оснащенного камерой высокого разрешения, производится съемка объекта. После обработки данных, получается 3D модель объекта."
-        icon: fas fa-eye #find more at https://fontawesome.com/icons
+        image: assets/img/portfolio/rov_thumb.webp
+        # icon: fas fa-eye #find more at https://fontawesome.com/icons
       - title: "Дефектоскопия"
         desc: "Специальная нейросеть анализирует полученную 3D модель и выдает отчет о наличии дефектов."
         icon: fas fa-heart-broken
@@ -63,12 +64,12 @@ ru: &DEFAULT_RU
         desc: "Зимой 2023 года мы зарегистрировали компанию «Гидроскан»."
         image: assets/img/timeline/logo_inverted.webp
         alt: "ООО «Гидроскан»"
-      - title: "Разрабатываем «Гидроскан»"
+      - title: "Разработали ТНПА и БНА"
         year: "2023"
-        desc: "Мы активно ведем разработку нашего собственного телеуправляемого подводного аппарата «Гидроскан». С помощью него мы будем выполнять сканирование под водой."
-        image: assets/img/portfolio/project_hydroscan_rov_thumb.webp
+        desc: "Летом 2023 года мы разработали и собрали первые прототипы телеуправляемого необитаемого подводного аппарата и безэкипажного надводного аппарата."
+        image: assets/img/portfolio/rov_thumb.webp
         align: right
-        alt: "ТНПА «Гидроскан»"
+        alt: "Разработаны ТНПА и БНА"
     end: "Будущее.."
 
   about:
@@ -79,21 +80,15 @@ ru: &DEFAULT_RU
 
   clients:
     section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    max-height: 200px
+    horizontal-scrolling: "yes" #"yes/no"
     list:
-      # - title: "envato"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/envato.jpg
-      # - title: "designmodo"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/designmodo.jpg
-      # - title: "themeforest"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/themeforest.jpg
-      # - title: "Creative Market"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/creative-market.jpg
+      - title: "Иван Морозов"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/nerpa.jpg
+      - title: "designmodo"
+        url: https://vk.com/divebaza
+        logo: assets/img/clients/divebaza.jpg
 
   team:
     title: "НАША КОМАНДА"
