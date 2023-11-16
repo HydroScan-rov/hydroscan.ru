@@ -86,7 +86,7 @@ ru: &DEFAULT_RU
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Иван Морозов"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://t.me/cazzodelmare
         logo: assets/img/clients/nerpa.jpg
       - title: "designmodo"
         url: https://vk.com/divebaza
