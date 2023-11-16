@@ -11,7 +11,7 @@
 # -------
 ru: &DEFAULT_RU
   header:
-    title: ПОДВОДНЫЕ ОСМОТРОВЫЕ РАБОТЫ
+    title: ОБСЛЕДОВАНИЕ ВОДОЕМОВ И ГИДРОТЕХНИЧЕСКИХ СООРУЖЕНИЙ
     text: быстрее чем водолазы и с подробным отчетом
     button: Заказать
     buttonlink: "#contact"
@@ -21,22 +21,18 @@ ru: &DEFAULT_RU
     text: "Возможны дополнительные услуги по договоренности"
     section: services
     list:
-      - title: "3D сканирование"
-        desc: "С помощью подводного аппарата, оснащенного камерой высокого разрешения, производится съемка объекта. После обработки данных, получается 3D модель объекта."
-        image: assets/img/portfolio/rov_thumb.webp
-        # icon: fas fa-eye #find more at https://fontawesome.com/icons
-      - title: "Дефектоскопия"
-        desc: "Специальная нейросеть анализирует полученную 3D модель и выдает отчет о наличии дефектов."
-        icon: fas fa-heart-broken
-      - title: "Координаты"
-        desc: "3D модель будет привязана к предпочитаемой системе координат."
+      - title: "Визуальный осмотр"
+        desc: "С помощью подводного аппарата, оснащенного камерой и мощными светильниками, мы производим обследование и съемку объекта"
+        icon: fas fa-eye #find more at https://fontawesome.com/icons
+      - title: "3D реконструкция объекта"
+        desc: "Мы выполняем реконструкцию трехмерной модели обследуемого объекта с помощью камер высокого разрешения и мощных осветительных приборов, что позволяет провести детальный анализ объекта"
+        icon: fab fa-unity
+      - title: "Батиметрическая съемка"
+        desc: "С помощью безэкипажного надводного аппарата мы выполняем батиметрическую съемку акваторий и составляем карту глубин"
         icon: fas fa-map-marked-alt
-      - title: "Отчеты по ГОСТ"
-        desc: "Отчеты о проведении работ и результаты их выполнения подготавливаются в соответствии с ГОСТ"
-        icon: fas fa-paperclip
 
   portfolio:
-    title: "ПРОДУКТЫ"
+    title: "АППАРАТЫ"
     text: ""
     section: portfolio
     closebutton: "Закрыть"
@@ -70,6 +66,11 @@ ru: &DEFAULT_RU
         image: assets/img/portfolio/rov_thumb.webp
         align: right
         alt: "Разработаны ТНПА и БНА"
+      - title: "Испытания аппаратов и первый заказ"
+        year: "2023"
+        desc: "В августе и октябре 2023 года мы провели испытания наших аппаратов в реальных условиях на Ладожском озере"
+        image: assets/img/timeline/lodka.webp
+        alt: "БНА на Ладожском озере"
     end: "Будущее.."
 
   about:
@@ -80,8 +81,8 @@ ru: &DEFAULT_RU
 
   clients:
     section: clients
-    max-height: 200px
-    horizontal-scrolling: "yes" #"yes/no"
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Иван Морозов"
         url: https://github.com/raviriley/agency-jekyll-theme
