@@ -40,9 +40,9 @@
             >{{ link.title }}</a
           >
           {%- elsif link.tg -%}
-            <a class="nav-icon js-scroll-trigger" href="{{ link.tg }}"><i class="{{ link.icon }}"></i></a>
+            <a class="nav-link js-scroll-trigger" href="{{ link.tg }}"><i class="{{ link.icon }}"></i></a>
           {%- elsif link.vk -%}
-            <a class="nav-icon js-scroll-trigger" href="{{ link.tg }}"><i class="{{ link.icon }}"></i></a>
+            <a class="nav-link js-scroll-trigger" href="{{ link.tg }}"><i class="{{ link.icon }}"></i></a>
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
