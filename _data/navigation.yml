@@ -23,5 +23,7 @@ ru: &DEFAULT_RU
       section: team
     - title: "Контакты"
       section: contact
+    - tg: https://t.me/hydroscan/
+      icon: "fab fa-telegram"
 ru-RU:
   <<: *DEFAULT_RU
