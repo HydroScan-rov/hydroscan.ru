@@ -1,19 +1,8 @@
 ---
-layout: ladoga_map
+layout: page
 title: Ладога
 background: grey
 ---
-
-<script src="jquery.js"></script>
-<script>
-  $(function () {
-    var includes = $('[data-include]')
-    $.each(includes, function () {
-      var file = '_views/' + $(this).data('include') + '.html'
-      $(this).load(file)
-    })
-  })
-</script>
 
 <section class="page-section">
   <div data-include="ladoga_logs"></div>
