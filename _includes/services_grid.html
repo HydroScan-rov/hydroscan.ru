@@ -11,7 +11,7 @@
     <div class="row">
 	{% for project in site.services %}
       <div class="col-md-4 col-sm-6 services-item">
-        <a class="services-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="services-link" data-toggle="modal" href="#p{{ forloop.index }}-service">
           <div class="services-hover">
             <div class="services-hover-content">
               <i class="{{ site.data.style.services-icon | default: "fas fa-plus fa-3x" }}"></i>
@@ -40,7 +40,7 @@
     <div class="row">
 	{% for project in site.services %}
       <div class="col-md-4 col-sm-6 services-item">
-        <a class="services-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="services-link" data-toggle="modal" href="#p{{ forloop.index }}-service">
           <div class="services-hover">
             <div class="services-hover-content">
               <i class="{{ site.data.style.services-icon | default: "fas fa-plus fa-3x" }}"></i>
