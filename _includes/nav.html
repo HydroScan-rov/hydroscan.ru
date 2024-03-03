@@ -39,6 +39,10 @@
             href="{{ site.baseurl }}/#{{ link.section }}"
             >{{ link.title }}</a
           >
+          {%- elsif link.tg -%}
+            <a class="nav-link js-scroll-trigger" href="{{ link.tg }}"><i class="{{ link.icon }}"></i></a>
+          {%- elsif link.vk -%}
+            <a class="nav-link js-scroll-trigger" href="{{ link.vk }}"><i class="{{ link.icon }}"></i></a>
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
