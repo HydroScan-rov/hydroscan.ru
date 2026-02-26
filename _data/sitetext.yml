@@ -144,7 +144,5 @@ ru: &DEFAULT_RU
     social:
       - url: https://t.me/hydroscan/
         icon: "fab fa-telegram"
-      - url: https://instagram.com/hydroscan/
-        icon: "fab fa-instagram"
 ru-RU:
   <<: *DEFAULT_RU
